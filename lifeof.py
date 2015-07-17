@@ -23,5 +23,5 @@ def compint():
     P = input('initial amount=:')
     r = input('anual rate of interest (decimal)=')
     n = input('number of times compounded per year=')
-    t = input('number of years=')
+    t = input('number of year(s)=')
     return(['final amount=', float(P)*(1+float(r)/float(n))**(float(n)*float(t))])
