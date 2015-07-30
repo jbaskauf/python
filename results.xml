@@ -1,0 +1,938 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='place'/>
+	</head>
+	<results>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4617305/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4664532/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4612891/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4651915/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4626068/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4494189/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4656568/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4653638/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4241904/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4234962/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/8617480/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4618068/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4642435/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4620504/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4648768/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/8617495/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4642445/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4654962/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/8617492/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4603388/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5145576/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4668271/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/8617494/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/8617487/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/8617489/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5790164/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5805712/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5739051/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5562484/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5565871/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5789829/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5339268/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5410952/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/8617490/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4662103/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4282511/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4638035/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4469393/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4487127/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4452290/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4483525/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4458155/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/6177913/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4118984/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4108100/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4105899/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4106979/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4117919/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4130432/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4102608/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4103630/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4100581/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4104658/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4120525/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4540865/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4111593/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4411205/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4099679/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4105838/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4125858/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4132456/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4101244/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4125059/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4123415/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4127100/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4112045/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4661017/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5855765/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5290307/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/8504608/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5308878/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5312529/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4470398/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5798663/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5815675/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4771240/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4785275/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4518598/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5272272/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4311258/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4297360/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5313135/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5290944/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/8617497/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4645575/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4614441/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4636403/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5162774/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5652361/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5654292/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5403789/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5394465/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5370594/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4665884/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4612313/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4614466/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/8617493/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4862456/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5910071/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5910133/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/6049019/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/6164529/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4668054/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/8617488/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5796126/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5735869/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5578884/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5581493/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4603404/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5866071/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5859365/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4493539/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4469840/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4877685/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4642752/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5815358/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4496357/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5805711/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/6942830/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5855796/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5300748/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4145709/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5654267/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5417183/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4457580/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5834587/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5843642/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5375163/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4336232/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4119581/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4547304/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4123857/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5307513/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5471293/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5583239/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5565500/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5570186/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4187348/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4213974/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4471487/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5840786/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5826327/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4055067/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5736713/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5350964/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5363375/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4299595/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4664489/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4621726/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4621908/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5412051/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4219431/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4127330/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4782579/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4116263/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4115832/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4656461/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/6252001/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5332921/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5551752/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5815135/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5029877/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5855797/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4662168/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/6088504/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5883649/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4667226/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4479817/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4485611/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5426503/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4164238/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4154663/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5180052/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5000447/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5860541/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5860543/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4158643/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4146217/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5892533/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5481136/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5165418/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4164762/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4862182/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4617573/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/5417618/</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='place'>
+				<uri>http://sws.geonames.org/4482348/</uri>
+			</binding>
+		</result>
+	</results>
+</sparql>
