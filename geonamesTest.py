@@ -20,6 +20,7 @@ addedGraph=rdflib.Graph()
 
 fileIndex=0
 while fileIndex<len(resultsArray):
+    #put something on the screen so that we can track progress
     print(fileIndex)
     #pull the text value for a particular node
     baseUri=resultsArray[fileIndex].text
@@ -35,7 +36,7 @@ while fileIndex<len(resultsArray):
     else:
         #when the file is retrieved successfully and parsed, UNION it into the
         #graph where I'm accumulating the whole set of triples
-        merge = builtGraph + addedGraph
+        builtGraph = builtGraph + addedGraph
     fileIndex=fileIndex+1
 #this will serialize the triples as RDF/XML and save the results in a file
-s = merge.serialize(destination='geonames.rdf', format='xml')
+s = builtGraph.serialize(destination='geonames.rdf', format='xml')
