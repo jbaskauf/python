@@ -137,6 +137,10 @@ def displaySets(dealtCardAttribute):
     result=findSets(dealtCardAttribute)
     answer.set(result)
     
+def buttonPress():
+    print(buttonIndex.get())
+
+
 
 #this is the main script
 
@@ -184,5 +188,16 @@ ttk.Button(mainframe, text="What are the sets?", command=lambda: displaySets(dea
 
 # this is the answer row
 ttk.Label(mainframe, textvariable=answer).grid(column=3, row=9, sticky=(W,E))
+
+
+# creates a table of radiobuttons
+button=0
+buttonIndex = IntVar()
+while button<15:
+    ttk.Radiobutton(mainframe, text="button"+str(button), variable=buttonIndex, value=button, command=buttonPress).grid(column=button%3+3, row=int(button/3+11), sticky=W)
+    button=button+1
+
+
+
 
 mainloop()
